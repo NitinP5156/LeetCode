@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/NitinP5156/LeetCode/tree/master/0055-jump-game) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/NitinP5156/LeetCode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/NitinP5156/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
