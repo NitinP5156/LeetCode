@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/NitinP5156/LeetCode/tree/master/0055-jump-game) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NitinP5156/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/NitinP5156/LeetCode/tree/master/0061-rotate-list) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/NitinP5156/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
