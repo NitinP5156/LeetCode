@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
+        if(head==null||head.next==null)return head;
         int count=0;
         ListNode curr=head;
         while(curr!=null&&count!=k){
