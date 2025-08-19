@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NitinP5156/LeetCode/tree/master/0055-jump-game) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NitinP5156/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NitinP5156/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0898-transpose-matrix](https://github.com/NitinP5156/LeetCode/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NitinP5156/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/NitinP5156/LeetCode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/NitinP5156/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
