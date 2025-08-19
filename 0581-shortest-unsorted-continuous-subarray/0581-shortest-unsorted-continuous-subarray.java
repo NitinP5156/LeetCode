@@ -18,9 +18,11 @@ class Solution {
         }
         while(start<=end&&nums[end]==sorted[end]){
             end--;
-        }
+        }if(start>=end){
+            return 0;
+        }else{
 
         return end-start+1;
-        
+        }
     }
 }
