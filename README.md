@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/NitinP5156/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/NitinP5156/LeetCode/tree/master/0062-unique-paths) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NitinP5156/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/NitinP5156/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NitinP5156/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0898-transpose-matrix](https://github.com/NitinP5156/LeetCode/tree/master/0898-transpose-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NitinP5156/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NitinP5156/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NitinP5156/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Sorting
 |  |
 | ------- |
@@ -58,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NitinP5156/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NitinP5156/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Matrix
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/NitinP5156/LeetCode/tree/master/0898-transpose-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NitinP5156/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
