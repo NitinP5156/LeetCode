@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NitinP5156/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0898-transpose-matrix](https://github.com/NitinP5156/LeetCode/tree/master/0898-transpose-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/NitinP5156/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NitinP5156/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/NitinP5156/LeetCode/tree/master/0898-transpose-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/NitinP5156/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NitinP5156/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
 | ------- |
